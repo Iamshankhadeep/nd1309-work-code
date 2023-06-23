@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "level": "^4.0.0"
+    "level": "^8.0.0"
   }
 }
